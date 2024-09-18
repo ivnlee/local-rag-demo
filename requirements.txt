@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain_experimental
+langchain_community
+docarray
+pydantic==2.9.1
+python-dotenvp
