@@ -5,3 +5,6 @@ langchain_community
 docarray
 pydantic==2.9.1
 python-dotenvp
+marker-pdf
+torch torchvision torchaudio 
+"unstructured[md]" nltk 
