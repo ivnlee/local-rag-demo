@@ -15,5 +15,4 @@ The general pipeline is as follows:
 - Store the embeddings in a vector store (vector database)
 - Query the model 
 
-We will test the performance of 3 SOTA LLMs: **Llama 3.2 (3B)**, **Gemma 2 (2B)** and **GPT-4o**
-
+We will test the performance of 3 SOTA LLMs: **Llama 3.1 (8B)**, **Llama 3.2 (3B)** and **Gemma 2 (2B)**. For comparison we will also test **GPT-4o-mini**. 
